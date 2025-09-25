@@ -1,0 +1,45 @@
+body {
+  background-color: #268C51; 
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: black;
+  font-weight: bold;
+}
+
+h2 {
+  color: white;
+  font-style: italic;
+  font-family: Georgia, serif;
+}
+
+p {
+  font-family: Arial, sans-serif;
+}
+
+.blanco {
+  color: white;
+}
+
+.naranja {
+  color: orange;
+  font-weight: bold;
+}
+
+.cursiva-blanco {
+  color: white;
+  font-style: italic;
+  font-family: Georgia, serif;
+}
+
+.cursiva-rojo {
+  color: crimson;
+  font-style: italic;
+  font-family: Georgia, serif;
+}
+
+.rojo {
+  color: crimson;
+}
